@@ -1,3 +1,6 @@
+// Author: Diarmuid O Muirgheasa
+
+
 ArrayList<Circle> circleList;
 ArrayList<Circle> playerCircleList;
 int playerScore = 0;
