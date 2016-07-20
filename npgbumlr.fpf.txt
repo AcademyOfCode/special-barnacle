@@ -1,0 +1,14 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch Diarmuid_DEV
+# Changes to be committed:
+#	new file:   PictureGame/PictureGame/GameBoard.pde
+#	new file:   PictureGame/PictureGame/PictureBlock.pde
+#	new file:   PictureGame/PictureGame/PictureGame.pde
+#	new file:   PictureGame/PictureGame/SnapPoint.pde
+#	new file:   PictureGame/PictureGame/birdImage.jpg
+#	new file:   dragCollectDemo/dragCollectDemo/Circle.pde
+#	new file:   dragCollectDemo/dragCollectDemo/dragCollectDemo.pde
+#
+Adding PictureGame and dragCollectDemo
